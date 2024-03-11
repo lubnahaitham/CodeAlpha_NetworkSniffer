@@ -1,4 +1,4 @@
-A simple network sniffer
+## A simple network sniffer
 
 
 Use: python3 PacketSniffer.py
